@@ -18,7 +18,7 @@ h1,
 h2,
 h3,
 h4 {
-	color: #eee8d5; /* background3 */
+	color: #eee8d5; /* base2 */
 }
 
 a {
@@ -45,6 +45,11 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 
 td, th {
 	border: 1px solid #3a3a3a !important; /* background3 */
+}
+
+th,
+tr:first-child {
+	background-color: #212121; /* background1 */
 }
 
 pre,
