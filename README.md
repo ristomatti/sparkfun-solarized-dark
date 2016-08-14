@@ -6,8 +6,13 @@ Schoonover.
 ## Install
 
 1. Install **Stylish**
-2. Install theme using the Stylish import feature (TODO: change to
-   userstyles.org link later on)
+2. Install theme from
+   [userstyles.org](https://userstyles.org/styles/131368/sparkfun-solarized-dark-grey)
+
+## Preview
+
+![Sparkfun Solarized Dark Grey
+preview](https://raw.githubusercontent.com/ristomatti/sparkfun-solarized-dark/master/example-screenshot.png)
 
 ## Changelog
 
