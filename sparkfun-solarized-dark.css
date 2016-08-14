@@ -1,0 +1,78 @@
+@-moz-document domain("learn.sparkfun.com") {
+/**
+* Sparkfun Solarized Dark Grey v0.1 (2016-08-14)
+*
+* https://github.com/ristomatti/sparkfun-solarized-dark
+*
+* The MIT License (MIT) https://opensource.org/licenses/MIT
+*
+* (c) 2016 Ristomatti Airo <ristomatti@kallio.io>
+*/
+
+body {
+	background-color: #141414; /* background0 */
+	color: #93a1a1;            /* base1 */
+}
+
+h1,
+h2,
+h3,
+h4 {
+	color: #eee8d5; /* background3 */
+}
+
+a {
+	color: #cb4b16; /* orange */
+}
+
+hr {
+	border: 1px solid #3a3a3a; /* backgrorund3 */
+}
+
+.list-group-item {
+	background-color: #212121; /* background1 */
+	border: 1px solid #3a3a3a; /* background3 */
+}
+
+a.list-group-item {
+	color: #93a1a1; /* base1 */
+}
+
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
+	background-color: #cb4b16; /* orange */
+	border-color: #cb4b16;     /* orange */
+}
+
+td, th {
+	border: 1px solid #3a3a3a !important; /* background3 */
+}
+
+pre,
+pre code,
+code {
+	background-color: #212121; /* background1 */
+	color: #93a1a1;            /* base1 */
+	border: 1px solid #3a3a3a; /* background3 */
+}
+
+span.comment {
+	color: #586e75; /* base01 */
+}
+
+span.keyword,
+span.operator,
+span.function.call,
+span.function{
+	color: #268bd2; /* blue */
+}
+
+span.constant,
+span.constant.numeric,
+span.numeric {
+	color: #cb4b16; /* orange */
+}
+
+span.string {
+	color: #b58900; /* yellow */
+}
+}
