@@ -13,3 +13,4 @@ Schoonover.
 
 #### Version 0.1
 * Initial version
+* Targets only URLs on the domain learn.sparkfun.com
